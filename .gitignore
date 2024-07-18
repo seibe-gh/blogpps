@@ -1,8 +1,8 @@
 .DS_Store
 .gitignore
 node_modules
-content
-doc
+docs
+Obsidian
 public
 prof
 tsconfig.tsbuildinfo
