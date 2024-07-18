@@ -6,5 +6,4 @@ title: Blog PPS
 # Tema 1️⃣
 
 - [[1stC|Primeros Pasos en C]]
-- [[StringC|Strings en C]]
-- 
+- [[StringC|Strings en C]] 
