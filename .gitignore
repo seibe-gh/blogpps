@@ -2,7 +2,6 @@
 .gitignore
 node_modules
 docs
-Obsidian
 public
 prof
 tsconfig.tsbuildinfo
